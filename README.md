@@ -1,2 +1,3 @@
 # Jukebox
 Jukebox code in python
+You have to pip install python-vlc and mutagen.mp3 packages to make it work...
